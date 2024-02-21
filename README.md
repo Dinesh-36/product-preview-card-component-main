@@ -25,7 +25,7 @@ Users should be able to:
 ![](./screenshots/mobile_view.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Dinesh-36/product-preview-card-component-main)
 - Live Site URL: [Add live site URL here](https://calm-dolphin-7e172e.netlify.app/)
 
 
